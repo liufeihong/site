@@ -1,0 +1,65 @@
+.bemtv-head {
+  background-color: #71C3E2;
+  padding-bottom: 20px;
+}
+
+.logo {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.github-button {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.bemtv-body {
+  width: 1000px;
+}
+
+.bemtv-footer {
+  margin-top: 100px;
+  background-color: #B8DEEC;
+  margin-bottom: 0px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align: center;
+}
+
+.logo-footer {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+body {
+  color: black;
+}
+
+.jumbotron p {
+  font-size: 14px;
+  line-height: 20px;
+  display: inline;
+}
+
+.explanation p {
+  text-align: left;
+  margin: 3.6rem 0 20 0;
+  font-size: 1.2em;
+  line-height: 1.6em;
+}
+
+.jumbotron iframe {
+  width: 53px;
+  height: 20px;
+  display: inline;
+  margin: -5;
+  margin-left: 3;
+  margin-right: 3;
+}
+
+.bemtv-footer a {
+  color: #001CB1;
+}
+.jumbotron p.inline {
+  display: inline;
+}
