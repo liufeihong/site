@@ -26,7 +26,7 @@ python -m SimpleHTTPServer
 
 #### Author
 
-[![Flavio Ribeiro](https://avatars0.githubusercontent.com/u/244265?v=2&?s=70)](https://github.com/flavioribeiro)
+[![Flavio Ribeiro](https://avatars0.githubusercontent.com/u/244265?s=70)](https://github.com/flavioribeiro)
 <br>
 [Flavio Ribeiro](https://github.com/flavioribeiro)
 
