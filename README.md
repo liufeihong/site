@@ -1,4 +1,4 @@
-# BemTV - [bem.tv](https://bem.tv)
+# BemTV - [bem.tv](http://bem.tv)
 ====
 
 Landing page and some static stuff for http://bem.tv
